@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Raktim:1234@devconnect.zt83v.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
